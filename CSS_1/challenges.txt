@@ -1,0 +1,14 @@
+VERY EASY: Create one 8x8 checkerboard similar to the picture attached using a table. Bonus: use only divs to create the board. 
+  
+EASY: Utilizing a table with different styles, create an image of the American flag. Use the image provided for the stars.
+  
+MEDIUM: Create a product grid of 2 rows, totaling to a required 8 products. Each product must include a title, price, image and a short description. Have each product link back to its own page on Amazon / Walmart / Target. 
+  
+HARD: Recreate the pie chart in the picture provided.
+  
+VERY HARD: Using what you know about the box model and positioning, build out what you see in the image provided.
+The background color is #777.
+Add whatever text you want instead of the placeholders.
+Add an image for the “large box”.
+Make sure the masthead sticks to the top of the page when you scroll down.
+Be creative!
