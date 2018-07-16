@@ -1,0 +1,9 @@
+Complete the following games:
+http://flexboxfroggy.com/
+https://cssgridgarden.com/
+
+Using the website layout from the very hard challenge from last week, use media
+queries to make the site responsive in the following way:
+-Change the nav bar to a hamburger icon for mobile
+-Change the color of the boxes to blue for mobile, red for tablet, and orange for anything greater
+-Increase the size of the text for a mobile screen
