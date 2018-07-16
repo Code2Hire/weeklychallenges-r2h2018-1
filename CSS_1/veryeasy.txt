@@ -1,0 +1,96 @@
+<!-- Create one 8x8 checkerboard similar to the picture attached using a table. -->
+
+<table>
+  <tr>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+  </tr>
+  <tr>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+  </tr>
+   <tr>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+  </tr>
+  <tr>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+  </tr>
+   <tr>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+  </tr>
+  <tr>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+  </tr>
+   <tr>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+    <td class="black">1</td>
+    <td class="white">2</td>
+    <td class="black">3</td>
+    <td class="white">4</td>
+  </tr>
+  <tr>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+    <td class="white">1</td>
+    <td class="black">2</td>
+    <td class="white">3</td>
+    <td class="black">4</td>
+  </tr>
+</table>
+
+/* CSS Styling */
+
+.black {
+  background-color: black;
+}
+.white {
+  color: white;
+}
+table {
+  border: 1px solid black;
+}
