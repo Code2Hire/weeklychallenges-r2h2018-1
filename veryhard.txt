@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Very-Hard Challenge</title>
+    <style>
+        body {
+            color: white;
+            font-family: sans-serif;
+        }
+        .topnav {
+            background-color: #777;
+            display: block;
+            overflow: hidden;
+        }
+        .topnav li {
+            list-style: none;
+            float: right;
+            padding-left: 15px;
+            padding-right: 15px;
+            padding-bottom: 15px;
+            background-color: #777;
+        }
+        .logo {
+            display: inline;
+            position: fixed;
+            margin: 15px;
+            font-size: 20px;
+        }
+        main {
+            margin: 30px;
+        }
+        figure {
+            float:left;
+        }
+        img {
+            height: auto;
+            width: auto;
+            max-width: 500px;
+        }
+        .smallbox {
+            float: right;
+            background-color: #777;
+            margin-left: 30px;
+            margin-right: 25px;
+            margin-top: 75px;
+            padding: 45px;
+            max-width: 350px;
+        }   
+        h1 {
+            text-align: center;
+            display: inline-block;
+            background-color: #777;
+            padding-left: 565px;
+            padding-right: 565px;
+        }
+        .cards {
+            display: flex;
+            flex-flow: row-wrap;
+            justify-content: center;
+        }
+        .card {
+            flex: 1;
+            background-color: #777;
+            margin-right: 10px;
+            padding: 25px;
+            text-align: center;
+        }
+        #tabs {
+            display: flex;
+            flex-flow: row-wrap;
+            justify-content: center;
+        }
+        .tabs {
+            flex: 1;
+            background-color: #777;
+            margin-right: 5px;
+            padding: 15px;
+            text-align: center;
+        }
+        article {
+            background-color: #777;
+            padding: 20px;
+        }
+        footer {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+        }
+        footer ul {
+            background-color: #777;
+            display: block;
+            overflow: hidden;
+        }
+        footer li {
+            list-style: none;
+            padding-top: 10px;
+            padding-bottom: 40px:
+        }
+        .copyright {
+            float: left;
+        }
+        .links {
+            float: right;
+            padding-right: 30px;
+            margin-left: 1480px;
+        }
+    </style>
+</head>
+  
+<body>
+  <header>
+    <!--Nav Bar-->
+    <nav class="topnav">
+     <p class="logo">Logo</p>
+      <ul>
+        <li>Link 5</li>
+        <li>Link 4</li>
+        <li>Link 3</li>
+        <li>Link 2</li>
+        <li>Link 1</li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <figure>
+      <img src="challengeimg/3ds.jpg" alt="nintendo switch">
+    </figure>
+    <aside>
+      <p class="smallbox">Video Games are cool. If you're bored you can play them.</p>
+    </aside>
+    <aside>
+        <p class="smallbox">You shouldn't play them when you have homework though, otherwise things go super bad and you end up with a lot of work todo.</p>
+    </aside>
+    <h1>Currently Running Out of Filler</h1>
+    <div class="cards">
+        <p class="card">I don't know what to put here.</p>
+        <p class="card">Or here.</p>
+        <p class="card">Or in this one.</p>
+    </div>
+    <section id="tabs">
+        <p class="tabs">Tab 1</p>
+        <p class="tabs">Tab 2</p>
+        <p class="tabs">Tab 3</p>
+        <p class="tabs">Tab 4</p>
+    </section>
+    <article>
+        <p>It's really late/early, and I have officially run out of ideas on what to put in this box so I'm just going to keep typing until I decide that I've written enough I guess. I really hope you don't read through all of this becasue honestly it's all garbage and I'm just typing to fill up space at this point. Speaking of space, I think I've filled enough in for right now.</p>
+    </article>
+  </main>
+  <footer>
+      <ul>
+          <li class="copyright">&copy; Copyright</li>
+          <li class= "links">Links</li>
+      </ul>
+  </footer>
+  </body>
