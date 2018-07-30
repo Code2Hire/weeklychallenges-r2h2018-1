@@ -1,0 +1,14 @@
+I am attaching the links to the CodePen that contain the problems for this week.
+****Copy and paste the questions in your own code pen and work there.***** In submitting
+the assignment, simply paste the links to your solutions in a text file and push
+that up to GitHub. This will make it easier to only work with JS
+without having to worry about any HTML or CSS.
+
+https://codepen.io/road2hire/pen/bd7cc288ca8716cc6fd8df22a10e3b53?editors=1010
+
+https://codepen.io/road2hire/pen/780cc7f9280c5b62a25a16b076705523
+
+https://codepen.io/road2hire/pen/caa62a1909cd223774cd6b7b54094fbc
+
+**Note the last challenge builds off of the videos, so manage your time efficiently
+in order to complete this challenge by Sunday night!
