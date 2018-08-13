@@ -1,0 +1,4 @@
+
+Create an array of 3 objects, all of which containing a name property and an
+age property. Write a script that will generate a random number from 0-2,
+call the object with that index, and print “[name] is [age].”
